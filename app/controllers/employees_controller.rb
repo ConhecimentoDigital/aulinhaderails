@@ -13,7 +13,7 @@ class EmployeesController < ApplicationController
   #try to stop me biatch
   def show
   end
-
+  #O vini é o superchoque
   # GET /employees/new
   def new
     @employee = Employee.new
