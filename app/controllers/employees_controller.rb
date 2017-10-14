@@ -21,7 +21,7 @@ class EmployeesController < ApplicationController
   # GET /employees/1/edit
   def edit
   end
-
+#Nigga wtf do u think you're doing here?
   # POST /employees
   # POST /employees.json
   def create
