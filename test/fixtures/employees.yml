@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  work_time: MyString
+  name: MyString
+  function: MyString
+  age: MyString
+
+two:
+  work_time: MyString
+  name: MyString
+  function: MyString
+  age: MyString
