@@ -3,6 +3,7 @@ class EmployeesController < ApplicationController
 
   # GET /employees
   # GET /employees.json
+  #Eu sou JGC e estou editando esta area
   def index
     @employees = Employee.all
   end
