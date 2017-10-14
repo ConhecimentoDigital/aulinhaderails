@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fantasy_name: MyString
+  cnpj: MyString
+  phone_number: MyString
+  country: MyString
+
+two:
+  fantasy_name: MyString
+  cnpj: MyString
+  phone_number: MyString
+  country: MyString
