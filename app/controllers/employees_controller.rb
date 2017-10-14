@@ -10,6 +10,7 @@ class EmployeesController < ApplicationController
 
   # GET /employees/1
   # GET /employees/1.json
+  #try to stop me biatch
   def show
   end
 
