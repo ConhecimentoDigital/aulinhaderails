@@ -57,6 +57,7 @@ class EmployeesController < ApplicationController
 
   # DELETE /employees/1
   # DELETE /employees/1.json
+  # edição de comentário
   def destroy
     @employee.destroy
     respond_to do |format|
