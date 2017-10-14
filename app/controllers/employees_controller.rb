@@ -9,6 +9,7 @@ class EmployeesController < ApplicationController
 
   # GET /employees/1
   # GET /employees/1.json
+  #try to stop me biatch
   def show
   end
 
@@ -20,7 +21,7 @@ class EmployeesController < ApplicationController
   # GET /employees/1/edit
   def edit
   end
-
+#Nigga wtf do u think you're doing here?
   # POST /employees
   # POST /employees.json
   def create
@@ -36,6 +37,7 @@ class EmployeesController < ApplicationController
       end
     end
   end
+  #Eu sou o vini e eu gosto de barbie
 
   # PATCH/PUT /employees/1
   # PATCH/PUT /employees/1.json
@@ -54,6 +56,7 @@ class EmployeesController < ApplicationController
 
   # DELETE /employees/1
   # DELETE /employees/1.json
+  # edição de comentário
   def destroy
     @employee.destroy
     respond_to do |format|
@@ -69,6 +72,7 @@ class EmployeesController < ApplicationController
     end
 
     # Never trust parameters from the scary internet, only allow the white list through.
+    # Never trust niggers
     def employee_params
       params.require(:employee).permit(:work_time, :name, :function, :age)
     end
