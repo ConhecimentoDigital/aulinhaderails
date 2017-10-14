@@ -10,6 +10,7 @@ class EmployeesController < ApplicationController
 
   # GET /employees/1
   # GET /employees/1.json
+  #try to stop me biatch
   def show
   end
 
@@ -21,7 +22,7 @@ class EmployeesController < ApplicationController
   # GET /employees/1/edit
   def edit
   end
-
+#Nigga wtf do u think you're doing here?
   # POST /employees
   # POST /employees.json
   def create
